@@ -979,16 +979,7 @@ Untuk pertanyaan atau issue:
 **Version:** 1.0.0
 **Maintained by:** Development Team
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/882829dd-0e62-49f7-86f2-13c0d993d2c6" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de9ee9cc-c2ac-4e48-81b6-0da4807b7449" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18eee144-7559-4282-840c-e6353fa7750e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6f8e14f-da03-441e-b2e5-caf4b9743fc2" />
-<img width="517" height="818" alt="image" src="https://github.com/user-attachments/assets/4e98a258-02f2-4ca4-bec5-f7f0fb128912" />
-<img width="506" height="826" alt="image" src="https://github.com/user-attachments/assets/3101bcc7-2253-4312-8f0d-5e35bc093f76" />
-<img width="521" height="825" alt="image" src="https://github.com/user-attachments/assets/4a22f530-f7b6-4901-b471-169fb9c768e3" />
-<img width="528" height="806" alt="image" src="https://github.com/user-attachments/assets/05d84de5-4cde-4caa-8b1d-9b0afa778da6" />
-<img width="520" height="815" alt="image" src="https://github.com/user-attachments/assets/45cb7f2a-f8c2-404a-beea-92bff0cc9db7" />
-<img width="520" height="886" alt="image" src="https://github.com/user-attachments/assets/579f770e-ba1c-476e-ab52-65396f5e7bc7" />
+
 
 
 

@@ -1,7 +1,10 @@
-LINK YANG SUDAH DI HOSTING MENGUNAKANKAN NETLIFY: <
-https://incandescent-smakager-b2377c.netlify.app/  <
-username: yuda@gmail.com  <
-password:yuda12    <
+LINK YANG SUDAH DI HOSTING MENGUNAKANKAN NETLIFY: 
+
+https://incandescent-smakager-b2377c.netlify.app/  
+
+username: yuda@gmail.com  
+
+password:yuda12    
 >
 
 <

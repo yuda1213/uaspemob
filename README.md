@@ -1,3 +1,21 @@
+<img width="531" height="819" alt="image" src="https://github.com/user-attachments/assets/f7caca32-b630-4cd4-84cf-637a9aa133f4" />  <img width="517" height="818" alt="Screenshot 2026-01-29 012859" src="https://github.com/user-attachments/assets/422849d8-476a-405d-866c-c33100b2796e" />     <img width="506" height="826" alt="Screenshot 2026-01-29 012926" src="https://github.com/user-attachments/assets/e62eea27-c5f4-4f74-88f8-b9737eba3f95" /> <img width="521" height="825" alt="Screenshot 2026-01-29 012944" src="https://github.com/user-attachments/assets/4744a2f3-8413-4a5a-893b-9ddd1b4ead33" /> <img width="528" height="806" alt="Screenshot 2026-01-29 013002" src="https://github.com/user-attachments/assets/a2abd574-dbf2-486d-9430-6d6736b633d2" /> <img width="520" height="815" alt="Screenshot 2026-01-29 013024" src="https://github.com/user-attachments/assets/06212e62-7d23-49e1-b128-bc42d0aafe05" /> <img width="520" height="886" alt="Screenshot 2026-01-29 013038" src="https://github.com/user-attachments/assets/2f46674c-9e9b-4865-9152-8f4d702da5c2" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🧺 Laundry Service Mobile Application
 
 Platform mobile comprehensive untuk reservasi dan pemesanan layanan laundry. Aplikasi ini memungkinkan pengguna untuk menemukan, membandingkan, dan memesan layanan laundry dari berbagai penyedia dengan mudah dan cepat.

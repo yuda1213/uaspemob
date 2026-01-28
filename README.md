@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/194cf368-9e97-4ce7-a236-022d56ea55aa" /># 🧺 Laundry Service Mobile Application
+# 🧺 Laundry Service Mobile Application
 
 Platform mobile comprehensive untuk reservasi dan pemesanan layanan laundry. Aplikasi ini memungkinkan pengguna untuk menemukan, membandingkan, dan memesan layanan laundry dari berbagai penyedia dengan mudah dan cepat.
 
